@@ -9,7 +9,9 @@ void init(){
     // Edit Here
 
     members[0] = "capra314cabra";
-    members[1] = "osmium1008";
+	  menbers[1] = "tk72HS";
+    members[2] = "osmium1008";
+  
     //
 
     count = 0;
