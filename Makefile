@@ -5,8 +5,6 @@
 ./bin/show_member.o: ./script/show_member.cpp
 	g++ -std=gnu++1y -O2 -c ./script/show_member.cpp -o ./bin/show_member.o
 running:
-	cd bin
-	./Judge
-	cd ..
+	./bin/Judge
 clean:
 	rm \bin/Judge \bin/*.o
