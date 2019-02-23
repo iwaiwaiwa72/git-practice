@@ -12,7 +12,8 @@ void init(){
     members[1] = "tk72HS";
     members[2] = "osmium1008";
     members[3] = "kaage";
-	members[4] = "TMJN";
+    members[4] = "TMJN";
+    members[5] = "anmichi";
   
     //
 
