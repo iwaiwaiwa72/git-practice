@@ -16,7 +16,9 @@ void init(){
     members[5] = "anmichi";
     members[6] = "Kaisei705";
     members[7] = "ZRK";
-    members[8]="Thistle";
+    members[8] = "Thistle";
+    members[9] = "mutuhuhihusenonu";
+  
     //
 
     count = 0;
