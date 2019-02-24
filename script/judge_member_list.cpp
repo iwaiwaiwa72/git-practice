@@ -1,4 +1,5 @@
 #include"show_member.h"
+#include"show_member.cpp"
 
 #include <fstream>
 #include <iostream>
