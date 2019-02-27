@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project(git-practice CXX)
+add_library(show_member STATIC script/show_member.cpp)
+add_executable(Judge script/judge_member_list.cpp)
+target_link_libraries(Judge show_member)
+target_compile_options(Judge PUBLIC -std=gnu++1y -O2)
